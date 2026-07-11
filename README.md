@@ -181,8 +181,8 @@ This repository is part of my Java learning journey.
 
 Cybersecurity Undergraduate • UET Lahore
 
-- 🌐 GitHub: https://github.com/your-username
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 🌐 GitHub: https://github.com/ahsanidreesnns8
+- 💼 LinkedIn: https://www.linkedin.com/in/m-ahsan-idrees-664126329?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
